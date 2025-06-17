@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay Broussard
 
-<h3 align="center">🚀 Passionate Machine Learning Engineer & Full-Stack Engineer</h3>
+<h3 align="center">🚀 Machine Learning Engineer & Full-Stack Engineer</h3>
 
 ### 📫 Contact Me
 
